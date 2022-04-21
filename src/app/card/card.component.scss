@@ -1,0 +1,18 @@
+.card {
+    width: 80%;
+    min-height: 80px;
+    border: 1px solid gray;
+    margin: 0 auto ;
+    margin-top: 25px;
+
+    h2 {
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+
+    p {
+        margin-left: 10px;
+        font-weight: 900;
+    }
+}
